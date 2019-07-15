@@ -18,7 +18,6 @@ public class Player : MonoBehaviour
     void Start()
     {
         isFlip = false;
-        escomida = false;
     }
 
     // Update is called once per frame
