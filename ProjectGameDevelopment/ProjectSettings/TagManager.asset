@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Fondo
+    uniqueID: 2469402573
+    locked: 0
+  - name: Personaje
+    uniqueID: 1110484023
+    locked: 0
