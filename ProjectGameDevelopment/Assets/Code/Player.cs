@@ -8,10 +8,10 @@ public class Player : MonoBehaviour
     public Rigidbody2D body;
     public float walkingSpeed;
     private float jumpForce = 200f;
-    public Animator animator;
     private bool isFlip;
+
 	private void Awake(){
-		trans = this.trans;
+    trans = this.trans;
 	}
 
     // Start is called before the first frame update
@@ -34,29 +34,28 @@ public class Player : MonoBehaviour
             if (Input.GetKey(KeyCode.LeftArrow))
             {
                 speed += -walkingSpeed;
-                isFlip = false;
-                Vector3 theScale = trans.localScale;
-		        if(!isFlip){
-                    theScale.x = Mathf.Abs(theScale.x);
-	        	    trans.localScale = theScale;
-                }
-
             }
             if (Input.GetKey(KeyCode.RightArrow))
             {
-                Vector3 theScale = trans.localScale;
-                isFlip = true;
-		        if(isFlip){
-                    theScale.x = -1*Mathf.Abs(theScale.x);
-	        	    trans.localScale = theScale;
-                }
                 speed += walkingSpeed;
             }
             v.x = speed;
             body.velocity = v;
-            animator.SetFloat("Speed",speed);
-                    //animator.SetBool("Escomida",false);
         }
     }
+    private void OnCollisionEnter2D(Collision2D colisionar)
+    {
+        var newObject = colisionar.collider.gameObject;
+        if (newObject.tag == "Comida")
+        {
+            var scala = this.transform.localScale;
+            if (scala.y < 0.7f)
+            {
+                scala.y *= 1.5f;
+                this.transform.localScale = scala;
+            }
+            newObject.SetActive(false);
+        }
+   }
 
 }
