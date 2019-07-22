@@ -1,0 +1,3557 @@
+fileFormatVersion: 2
+guid: d566fa2b85ba95a429c99d78cbd16bea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8031320429166531842
+    second: background_seamless_0
+  - first:
+      213: 3326081818262081508
+    second: background_seamless_1
+  - first:
+      213: -7955561466675655674
+    second: background_seamless_2
+  - first:
+      213: 426594420222053043
+    second: background_seamless_3
+  - first:
+      213: 7250701223891751828
+    second: background_seamless_4
+  - first:
+      213: -3385883656098824260
+    second: background_seamless_5
+  - first:
+      213: -3349150553629140938
+    second: background_seamless_6
+  - first:
+      213: 8766409379854538753
+    second: background_seamless_7
+  - first:
+      213: -7620035401534403501
+    second: background_seamless_8
+  - first:
+      213: 58873349506049902
+    second: background_seamless_9
+  - first:
+      213: 3898573958098195453
+    second: background_seamless_10
+  - first:
+      213: 7371702055213380726
+    second: background_seamless_11
+  - first:
+      213: -5460241296099520857
+    second: background_seamless_12
+  - first:
+      213: -1590203449206709195
+    second: background_seamless_13
+  - first:
+      213: 6773623432319774052
+    second: background_seamless_14
+  - first:
+      213: 6091488574791775831
+    second: background_seamless_15
+  - first:
+      213: -7620005135289341389
+    second: background_seamless_16
+  - first:
+      213: -4445219214160288004
+    second: background_seamless_17
+  - first:
+      213: 3280562967136860488
+    second: background_seamless_18
+  - first:
+      213: 8628474167541760300
+    second: background_seamless_19
+  - first:
+      213: -8971259997266419097
+    second: background_seamless_20
+  - first:
+      213: 5773822907684243261
+    second: background_seamless_21
+  - first:
+      213: -2237984349062409656
+    second: background_seamless_22
+  - first:
+      213: 676877510909885843
+    second: background_seamless_23
+  - first:
+      213: 8553691400866516319
+    second: background_seamless_24
+  - first:
+      213: 8734919281987098737
+    second: background_seamless_25
+  - first:
+      213: -2572342939615317208
+    second: background_seamless_26
+  - first:
+      213: -6140684677297711117
+    second: background_seamless_27
+  - first:
+      213: -2274807784207174089
+    second: background_seamless_28
+  - first:
+      213: 4899673112155611988
+    second: background_seamless_29
+  - first:
+      213: 5099492396309729424
+    second: background_seamless_30
+  - first:
+      213: 9033228435184276204
+    second: background_seamless_31
+  - first:
+      213: 9096531588408826238
+    second: background_seamless_32
+  - first:
+      213: 3779859278383405368
+    second: background_seamless_33
+  - first:
+      213: -5063361475512469836
+    second: background_seamless_34
+  - first:
+      213: -111296253023140500
+    second: background_seamless_35
+  - first:
+      213: 4482768546070257003
+    second: background_seamless_36
+  - first:
+      213: -9123302860189318291
+    second: background_seamless_37
+  - first:
+      213: 8885732182656286768
+    second: background_seamless_38
+  - first:
+      213: 7508910876353331624
+    second: background_seamless_39
+  - first:
+      213: 6234179341157341219
+    second: background_seamless_40
+  - first:
+      213: 1170809773762514670
+    second: background_seamless_41
+  - first:
+      213: 9044611612734038796
+    second: background_seamless_42
+  - first:
+      213: -6262199124054140919
+    second: background_seamless_43
+  - first:
+      213: 7345024003750675256
+    second: background_seamless_44
+  - first:
+      213: -1842433977522074548
+    second: background_seamless_45
+  - first:
+      213: -3840611982556517178
+    second: background_seamless_46
+  - first:
+      213: -7598040379426933638
+    second: background_seamless_47
+  - first:
+      213: -831621290065511704
+    second: background_seamless_48
+  - first:
+      213: -866112219430363471
+    second: background_seamless_49
+  - first:
+      213: -7209837361491836059
+    second: background_seamless_50
+  - first:
+      213: -6499643364268237868
+    second: background_seamless_51
+  - first:
+      213: 4943455733638214600
+    second: background_seamless_52
+  - first:
+      213: 3470270763125883991
+    second: background_seamless_53
+  - first:
+      213: 7566170278867476416
+    second: background_seamless_54
+  - first:
+      213: -4184569571537914597
+    second: background_seamless_55
+  - first:
+      213: 5038609383945285246
+    second: background_seamless_56
+  - first:
+      213: -906098244445864606
+    second: background_seamless_57
+  - first:
+      213: -8535569271961796039
+    second: background_seamless_58
+  - first:
+      213: 501574901028000478
+    second: background_seamless_59
+  - first:
+      213: 4806348198800704908
+    second: background_seamless_60
+  - first:
+      213: 8631499261037868635
+    second: background_seamless_61
+  - first:
+      213: -8940321177444235988
+    second: background_seamless_62
+  - first:
+      213: 4481276355696177325
+    second: background_seamless_63
+  - first:
+      213: -448199379907139179
+    second: background_seamless_64
+  - first:
+      213: 9183989129726374854
+    second: background_seamless_65
+  - first:
+      213: 3165803156460855021
+    second: background_seamless_66
+  - first:
+      213: -2948119829941871206
+    second: background_seamless_67
+  - first:
+      213: 3372233325810516588
+    second: background_seamless_68
+  - first:
+      213: 3189378180892701912
+    second: background_seamless_69
+  - first:
+      213: -8335292515458393220
+    second: background_seamless_70
+  - first:
+      213: -3826177815359498981
+    second: background_seamless_71
+  - first:
+      213: -3671108889104801853
+    second: background_seamless_72
+  - first:
+      213: 6323612556723300801
+    second: background_seamless_73
+  - first:
+      213: 1604608976688442675
+    second: background_seamless_74
+  - first:
+      213: 5800225113717950044
+    second: background_seamless_75
+  - first:
+      213: -4945726049022104059
+    second: background_seamless_76
+  - first:
+      213: 409519876973684896
+    second: background_seamless_77
+  - first:
+      213: -3006338738968778923
+    second: background_seamless_78
+  - first:
+      213: 4518946274575789672
+    second: background_seamless_79
+  - first:
+      213: 3089804167140385103
+    second: background_seamless_80
+  - first:
+      213: 2334552613822596253
+    second: background_seamless_81
+  - first:
+      213: 5110352472711719150
+    second: background_seamless_82
+  - first:
+      213: 3256732890662010157
+    second: background_seamless_83
+  - first:
+      213: 3483654322959496110
+    second: background_seamless_84
+  - first:
+      213: -8053045346657625492
+    second: background_seamless_85
+  - first:
+      213: -9101052894692250180
+    second: background_seamless_86
+  - first:
+      213: -2152827164429302970
+    second: background_seamless_87
+  - first:
+      213: -5021879676446231503
+    second: background_seamless_88
+  - first:
+      213: -5807937260026380726
+    second: background_seamless_89
+  - first:
+      213: 4625344253325897870
+    second: background_seamless_90
+  - first:
+      213: 535292641544550595
+    second: background_seamless_91
+  - first:
+      213: -5339474059908136363
+    second: background_seamless_92
+  - first:
+      213: 102739575740989138
+    second: background_seamless_93
+  - first:
+      213: -4381231271279615477
+    second: background_seamless_94
+  - first:
+      213: -5525482045753973054
+    second: background_seamless_95
+  - first:
+      213: -3751988388493669593
+    second: background_seamless_96
+  - first:
+      213: 4914340536466852467
+    second: background_seamless_97
+  - first:
+      213: 17261200299746872
+    second: background_seamless_98
+  - first:
+      213: -1490824196290410683
+    second: background_seamless_99
+  - first:
+      213: -2298875941634922984
+    second: background_seamless_100
+  - first:
+      213: 5196008848129373118
+    second: background_seamless_101
+  - first:
+      213: 1032899432705092528
+    second: background_seamless_102
+  - first:
+      213: -3087890346007267799
+    second: background_seamless_103
+  - first:
+      213: -2047805771931686231
+    second: background_seamless_104
+  - first:
+      213: -237947706117851827
+    second: background_seamless_105
+  - first:
+      213: 4292655755961370313
+    second: background_seamless_106
+  - first:
+      213: 7309341306155862039
+    second: background_seamless_107
+  - first:
+      213: -3437909408373289514
+    second: background_seamless_108
+  - first:
+      213: -6756489071214618749
+    second: background_seamless_109
+  - first:
+      213: 3269188418001244444
+    second: background_seamless_110
+  - first:
+      213: -5994333406683753259
+    second: background_seamless_111
+  - first:
+      213: -4137724407512255493
+    second: background_seamless_112
+  - first:
+      213: 4642795278990627932
+    second: background_seamless_113
+  - first:
+      213: 2435197747866052998
+    second: background_seamless_114
+  - first:
+      213: -6680234221156671937
+    second: background_seamless_115
+  - first:
+      213: 228594690705824489
+    second: background_seamless_116
+  - first:
+      213: 1315944062997398431
+    second: background_seamless_117
+  - first:
+      213: 6613485076473262078
+    second: background_seamless_118
+  - first:
+      213: -2078639997007108577
+    second: background_seamless_119
+  - first:
+      213: -3040277280757453889
+    second: background_seamless_120
+  - first:
+      213: 5352330224199781037
+    second: background_seamless_121
+  - first:
+      213: -5710323603362999607
+    second: background_seamless_122
+  - first:
+      213: 2740773199906621457
+    second: background_seamless_123
+  - first:
+      213: -3911506166664811984
+    second: background_seamless_124
+  - first:
+      213: -4785617165145942836
+    second: background_seamless_125
+  - first:
+      213: -4290782838551896703
+    second: background_seamless_126
+  - first:
+      213: -2123099688518748482
+    second: background_seamless_127
+  - first:
+      213: -766639945826769304
+    second: background_seamless_128
+  - first:
+      213: 4414054349605282192
+    second: background_seamless_129
+  - first:
+      213: 4260495723195589146
+    second: background_seamless_130
+  - first:
+      213: -7074252231811058134
+    second: background_seamless_131
+  - first:
+      213: 1696934327129089353
+    second: background_seamless_132
+  - first:
+      213: -3559815277454603039
+    second: background_seamless_133
+  - first:
+      213: -3728243424023840392
+    second: background_seamless_134
+  - first:
+      213: -8053201800563365082
+    second: background_seamless_135
+  - first:
+      213: 3605793710950672054
+    second: background_seamless_136
+  - first:
+      213: -1208110798941588450
+    second: background_seamless_137
+  - first:
+      213: 5647003667622307248
+    second: background_seamless_138
+  - first:
+      213: -5490693732090723063
+    second: background_seamless_139
+  - first:
+      213: 2227545195485010609
+    second: background_seamless_140
+  - first:
+      213: -1544678529544804289
+    second: background_seamless_141
+  - first:
+      213: -7877830030747064994
+    second: background_seamless_142
+  - first:
+      213: -5196363686042672875
+    second: background_seamless_143
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 11
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_seamless_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7efa14f0d35774493e373ced0fa81e
+      internalID: 8031320429166531842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed281edbe8ade349ac10526f277b698
+      internalID: 3326081818262081508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e41d9bacb766c4095e7522d3004929
+      internalID: -7955561466675655674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f33f4a9b72c094bb5a04af534a10a1
+      internalID: 426594420222053043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28930fe985c6a8b43bdb26d860d97fe2
+      internalID: 7250701223891751828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc21b1129a45b944f8fc09c68ae4d239
+      internalID: -3385883656098824260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a61c0ca2f53a249a7cb5cc7f09404f
+      internalID: -3349150553629140938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a13603c3cc65446b756dd53787c4f8
+      internalID: 8766409379854538753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ee64e6f94b5a941a2ca391ce0626f5
+      internalID: -7620035401534403501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade085c7e0614042a61c3076e1aa1d2
+      internalID: 58873349506049902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bb48dca532422479b9f9e8f59a4900
+      internalID: 3898573958098195453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2670845338ac547925f07f281e7002
+      internalID: 7371702055213380726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a9e5ed08920a4f801ef6503b17b87
+      internalID: -5460241296099520857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c5922eb54960146b533acc8fcfee73
+      internalID: -1590203449206709195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10db939c0166141a9fcee06ccae60a
+      internalID: 6773623432319774052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f95efa5a17ac15449d95cbfd379c2bf
+      internalID: 6091488574791775831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425fe2841e44f144b936a05d08857c1
+      internalID: -7620005135289341389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01320ad308e4a499a1edaf7f3b8e7a
+      internalID: -4445219214160288004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622362cb48ed6ad40b0612e9d5c0df83
+      internalID: 3280562967136860488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda1ffa7bced32a4193593adeb96420f
+      internalID: 8628474167541760300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1eca2d73d7ccc4f8b81019d167fa65
+      internalID: -8971259997266419097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b7795c7be56d941a8c606b980b6c4c
+      internalID: 5773822907684243261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b768c1e07820e8641922bc93e5d2409b
+      internalID: -2237984349062409656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496997c19a94454896cb97a2165ee33
+      internalID: 676877510909885843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143bc810f6921834b919507b24f8c20a
+      internalID: 8553691400866516319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ec26c5dd9b17448040e123c324897
+      internalID: 8734919281987098737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde754a3fec20e439d6dc81e94db9ec
+      internalID: -2572342939615317208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d3fe2b1f65394bbb629412ef95fe2
+      internalID: -6140684677297711117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37193056d5a7f5344871c1222c5db04c
+      internalID: -2274807784207174089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425b45a9cf1a0b4fb5939e02f7b6f54
+      internalID: 4899673112155611988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3cf78c24a3c0a4b99db739ad936df3
+      internalID: 5099492396309729424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c39bf7b86d389478853683636a8cf7
+      internalID: 9033228435184276204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e2f22cf102574695d0e4e9ad26890
+      internalID: 9096531588408826238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc3da2b01d50cb4e81c2115ab1e638e
+      internalID: 3779859278383405368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc15015dd6ee844bae75988deecacf
+      internalID: -5063361475512469836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 90
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383974ebab5003848a6e2876b3c36f27
+      internalID: -111296253023140500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09f041a4feff44db27d259cd2d2e81
+      internalID: 4482768546070257003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7655481e48fb264bb2c10061c1f69fc
+      internalID: -9123302860189318291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0880d7cd9aeae0543b82d8405d9ea9d5
+      internalID: 8885732182656286768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138046990cc73fd4396a28a696b50dd6
+      internalID: 7508910876353331624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ff001f2e9f5a4b87935742bdbde11
+      internalID: 6234179341157341219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4fb6599423ba0488561d3fab1d0d32
+      internalID: 1170809773762514670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fdbcf0adee42b4fb6de099e499be33
+      internalID: 9044611612734038796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70526c569a7c494468a22489d940517b
+      internalID: -6262199124054140919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd53b9cb09aafc42b65bb2f895913a6
+      internalID: 7345024003750675256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135bba7186c04ae4189431899e4294b4
+      internalID: -1842433977522074548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f360ce12b408e354e85962c3cc8e1e9c
+      internalID: -3840611982556517178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 80
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a791ba1babf04c4ab65fcfdf5edb509
+      internalID: -7598040379426933638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b94af390c0bd14a9191dc4ac00d57f
+      internalID: -831621290065511704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af4624cb64bcfc4fa51b1c2d8174222
+      internalID: -866112219430363471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dabe82b1895f746965ffbca8807115
+      internalID: -7209837361491836059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74503a3777eba14781bca23c9d719cc
+      internalID: -6499643364268237868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ebee348342c61488c817d12e504697
+      internalID: 4943455733638214600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ea54af72d1ea41aa01ad66b06a78e
+      internalID: 3470270763125883991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecafba53ba46d64cad0165b0b55bbc1
+      internalID: 7566170278867476416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec609a012a75d640872521b6d8ed1bf
+      internalID: -4184569571537914597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce8a42370deb9349a6143acd7b833eb
+      internalID: 5038609383945285246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80d318c850c91469b2c71152bb5db8
+      internalID: -906098244445864606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f26a69065d00e469eef9ef78404dcb
+      internalID: -8535569271961796039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cda6227c03fcc4cb06048a5706366d
+      internalID: 501574901028000478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f06c37c5e91bd4e93b0ca2e59dd729
+      internalID: 4806348198800704908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9984f40692d0b44a87c5989509e078
+      internalID: 8631499261037868635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557ece91d170f4e45822dc8c303203e3
+      internalID: -8940321177444235988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d074a74fc102c842a6f2f1604195fa0
+      internalID: 4481276355696177325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_64
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd1e165aba6444ebc90efa9c776e50
+      internalID: -448199379907139179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feb85965831f5c479dfb00224de5fd0
+      internalID: 9183989129726374854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_66
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c9955a37584c49ba1ec4ae6e8f0be
+      internalID: 3165803156460855021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be09805c63c4cc44387fb6eb0835dead
+      internalID: -2948119829941871206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0319ce516cd5846439fcb3ff3d207c5f
+      internalID: 3372233325810516588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d048cb1e8a3a49bb1a2aaf3f133fb
+      internalID: 3189378180892701912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d5381c1e0f73459f50ae42b68640f
+      internalID: -8335292515458393220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 60
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065509307dcd99f4aac2f7126f5ba9f6
+      internalID: -3826177815359498981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a15d05174f00504da38d65241cfd21d
+      internalID: -3671108889104801853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3541f2bf845f724998a3874e98f26dd
+      internalID: 6323612556723300801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04da84c8707db444867da78b30f93c5
+      internalID: 1604608976688442675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56eb046eee6ea044a10d2709605f973
+      internalID: 5800225113717950044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_76
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425c9ca85007a24783a47e3d8fd0f49
+      internalID: -4945726049022104059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa1eba69e59f7442a533e63e8176434
+      internalID: 409519876973684896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d0a72c1d90e44194c1baca14e9ae5
+      internalID: -3006338738968778923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd050b42ff9c24fb4af552e62d9aed
+      internalID: 4518946274575789672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a4df660b32904aa4d87e0b7ec52c1
+      internalID: 3089804167140385103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869b0e2b07a39f4d89079a74c87ea55
+      internalID: 2334552613822596253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_82
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1c2f9b032708140bd4e6325251194b
+      internalID: 5110352472711719150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 50
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1688866e0e68d441a9f3ff040ea327e
+      internalID: 3256732890662010157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630655d33b075754d86d36716e88279c
+      internalID: 3483654322959496110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b095b0d693814bba68c31e62afbe2
+      internalID: -8053045346657625492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_86
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d88fe67d8f1604db14404f185a7d23
+      internalID: -9101052894692250180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_87
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c0b4c8c462666439897f386de7f1f7
+      internalID: -2152827164429302970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_88
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03eb5ffa93a6846afd1f2d718d0d6b
+      internalID: -5021879676446231503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_89
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6929b0cf97b90b4983750b821067455
+      internalID: -5807937260026380726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_90
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda6b9c033ce6b4aa6cfe4c44a02d5a
+      internalID: 4625344253325897870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848e6f79149d754f84146c76b17bb05
+      internalID: 535292641544550595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb5f1b1ba49384a8aac147045a9dde
+      internalID: -5339474059908136363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2e7dfd30951fd4295b358247ef86a2
+      internalID: 102739575740989138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3c0cc3e5c78074da53948b226a2ef3
+      internalID: -4381231271279615477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 40
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fe1776d5ba664ab51ba8eb0207885
+      internalID: -5525482045753973054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8267d71fa93da4d8103abe5ce1555b
+      internalID: -3751988388493669593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304e6836383ec545b6f2c33bae8a7ea
+      internalID: 4914340536466852467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718333ddc9002664cb734250b93b77a3
+      internalID: 17261200299746872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1279a920b1cff4b89586a0cb202854
+      internalID: -1490824196290410683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f8791dccd962541ac6c30bc19797be
+      internalID: -2298875941634922984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ce2f37c2036d449b5055da3f6ef6e
+      internalID: 5196008848129373118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_102
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af466ba9f3a72fc4d804d9bd36b81afd
+      internalID: 1032899432705092528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53f3ae3d9c950498ceae2868e5fec7
+      internalID: -3087890346007267799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5da10593d3c84d9c6fdd34408bda4
+      internalID: -2047805771931686231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952cbd8501ed3343a96f77ad2b4ea5f
+      internalID: -237947706117851827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b441d20e576eca4bb264b02103daca5
+      internalID: 4292655755961370313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_107
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087cfd7a62080ca4eaddf75306d2b31e
+      internalID: 7309341306155862039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035362f5679549045a50a27088c8f51d
+      internalID: -3437909408373289514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5330581ab85d9ff4ab1949a0599559fb
+      internalID: -6756489071214618749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_110
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003456c6b4aefd84db179a7b7df7e072
+      internalID: 3269188418001244444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_111
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb748974eb417c9459c208e1d1425c30
+      internalID: -5994333406683753259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_112
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc233d6563e923042b01bf88a6131142
+      internalID: -4137724407512255493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df2c4f975c59d449097be9b173b92f
+      internalID: 4642795278990627932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_114
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fe50bd455d03541947efc19a154432
+      internalID: 2435197747866052998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965deda9390e37d4ca4a91d051a6adf0
+      internalID: -6680234221156671937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_116
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f43febee2eea409ef5f5b3bcf7a1a
+      internalID: 228594690705824489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_117
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c711b290f855a644884e6e672c6d577
+      internalID: 1315944062997398431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3208806d70827c40954f029acd62043
+      internalID: 6613485076473262078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_119
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 20
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3393464799bb87469b2f307fa16fb44
+      internalID: -2078639997007108577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b126b3639af35a640915e13eaf0afdb6
+      internalID: -3040277280757453889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a86ae485fae754c87ce37198862385
+      internalID: 5352330224199781037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_122
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f54b45ddc7ecb4fb51b14211f88327
+      internalID: -5710323603362999607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_123
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57365b8194b46247ad054bddfa19b81
+      internalID: 2740773199906621457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_124
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dbd32d8795f7241843fe443e18700b
+      internalID: -3911506166664811984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_125
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab44e45e92b9865479b2979575a195c0
+      internalID: -4785617165145942836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_126
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76b1cc1dd294549a44b66a13878b9a
+      internalID: -4290782838551896703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_127
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cff32303dca21428cbc24ce66bd1fb
+      internalID: -2123099688518748482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b8cd428b475fe448c3f84c025eaa77
+      internalID: -766639945826769304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_129
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58d61b91e9f924abe95feb5df6872c
+      internalID: 4414054349605282192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_130
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8d21202e9916c4fa5395c00a9a778b
+      internalID: 4260495723195589146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_131
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f2493574c2d34b903314e28cfccf3
+      internalID: -7074252231811058134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a400b7fb19401446aac036bedc3697d
+      internalID: 1696934327129089353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee95d266d27b544d9d5f3042e601bb0
+      internalID: -3559815277454603039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1082a46f89fa244e909d2bef98b4651
+      internalID: -3728243424023840392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2821c4bb819bb2f43a0a99ff80db26ef
+      internalID: -8053201800563365082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_136
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9293c45a9d5947a43da16f82ae73f
+      internalID: 3605793710950672054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_137
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344992143b64b2945bbb67bbb2416d9b
+      internalID: -1208110798941588450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_138
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0aa7df3504a6148b3050ffb983b414
+      internalID: 5647003667622307248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_139
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a7a49d8decc13419be20e5b666372c
+      internalID: -5490693732090723063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_140
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb67337f5e790941884f4fba6685a62
+      internalID: 2227545195485010609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_141
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a223f83ddbefab469da5de4d08d558a
+      internalID: -1544678529544804289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_142
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08218ced3ba694b924dabd3c693098
+      internalID: -7877830030747064994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_seamless_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 15.166667
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12a76ef3157294893e8e48b1fc31ad
+      internalID: -5196363686042672875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ab865946faa66974698d0a822ebf8c8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
