@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Trap
   - Water
+  - clue
+  - vehicle
   layers:
   - Default
   - TransparentFX
