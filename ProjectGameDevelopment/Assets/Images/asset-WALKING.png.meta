@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 4f376bb0fa9cd6240a4a7f3b6307b231
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 9021031302824030608
+    second: asset-WALKING_0
+  - first:
+      213: 4442119898354865132
+    second: asset-WALKING_1
+  - first:
+      213: 1287129299179931714
+    second: asset-WALKING_2
+  - first:
+      213: 8041362891044733241
+    second: asset-WALKING_3
+  - first:
+      213: -1018052927851259867
+    second: asset-WALKING_4
+  - first:
+      213: -44504653471958943
+    second: asset-WALKING_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +87,146 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: asset-WALKING_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748f16d915a27bb4980fbd9b269dc510
+      internalID: 9021031302824030608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset-WALKING_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 251
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059ed817b5635c4e892c581640d61af
+      internalID: 4442119898354865132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset-WALKING_2
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 230
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64deb6420f66dd14d84e2aaf6de02854
+      internalID: 1287129299179931714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset-WALKING_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 245
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854a286132effc479010aa6940bb287
+      internalID: 8041362891044733241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset-WALKING_4
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 0
+        width: 276
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9ffaae8c88e84f831ef0f65fb16a6
+      internalID: -1018052927851259867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset-WALKING_5
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 0
+        width: 228
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2ba44495866f14da9b79426af8546d
+      internalID: -44504653471958943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
