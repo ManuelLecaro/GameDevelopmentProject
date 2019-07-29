@@ -8,6 +8,7 @@ TagManager:
   - Water
   - clue
   - vehicle
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground
+  - Player
   - 
   - 
   - 
