@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
+using System.Collections;
 
 public class Player : MonoBehaviour
 {
@@ -10,7 +11,8 @@ public class Player : MonoBehaviour
     [SerializeField] private LayerMask m_WhatIsGround;                          // A mask determining what is ground to the character
     [SerializeField] private Transform m_GroundCheck;                           // A position marking where to check if the player is grounded.
     [SerializeField] private Transform m_CeilingCheck;                          // A position marking where to check for ceilings
-    [SerializeField] private Collider2D m_CrouchDisableCollider;                // A collider that will be disabled when crouching
+    [SerializeField] private Collider2D m_CrouchDisableCollider;  
+                  // A collider that will be disabled when crouching
 
     const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
     private bool m_Grounded;            // Whether or not the player is grounded.
@@ -18,6 +20,9 @@ public class Player : MonoBehaviour
     private Rigidbody2D m_Rigidbody2D;
     private bool m_FacingRight = true;  // For determining which way the player is currently facing.
     private Vector3 m_Velocity = Vector3.zero;
+    private bool window =false;
+    public GameObject canvas;
+    public int pauseDelay=2;
 
     [Header("Events")]
     [Space]
@@ -144,5 +149,28 @@ public class Player : MonoBehaviour
         Vector3 theScale = transform.localScale;
         theScale.x *= -1;
         transform.localScale = theScale;
+    }
+
+    private void OnCollisionEnter2D(Collision2D colisionar)
+    {
+        var newObject = colisionar.collider.gameObject;
+        if (newObject.tag == "clue")
+        {
+            Time.timeScale=0;
+            StartCoroutine(ResumeAfterNSeconds(3.0f));
+        }
+    }
+    float timer = 0;
+    private IEnumerator ResumeAfterNSeconds(float timePeriod)
+    {
+          yield return new WaitForEndOfFrame();
+          timer += Time.unscaledDeltaTime;
+          if(timer < timePeriod)
+                     StartCoroutine(ResumeAfterNSeconds(3.0f));
+          else
+          {
+                     Time.timeScale = 1;                //Resume
+                     timer = 0;
+          }
     }
 }
