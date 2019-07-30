@@ -20,7 +20,7 @@ public class Player : MonoBehaviour
     private Rigidbody2D m_Rigidbody2D;
     private bool m_FacingRight = true;  // For determining which way the player is currently facing.
     private Vector3 m_Velocity = Vector3.zero;
-    private bool window =false;
+    //private bool window =false;
     public GameObject canvas;
     public int pauseDelay=2;
 
