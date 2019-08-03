@@ -201,42 +201,6 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.IK.Editor">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.IK.Runtime">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEngineBridge.001">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Common.Runtime">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Common.Editor">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEditorBridge.001">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
@@ -264,14 +228,35 @@
     <Reference Include="Unity.Scenes.Editor">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Scenes.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Mathematics.Extensions">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Mathematics.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.IK.Editor">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.IK.Runtime">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Mathematics.Extensions.Hybrid">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Mathematics.Extensions.Hybrid.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="PsdPlugin">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Entities.BuildUtils">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Entities.BuildUtils.dll</HintPath>
@@ -282,8 +267,17 @@
     <Reference Include="Unity.Mathematics">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Psdimporter.Editor">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.001">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Properties">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Properties.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Runtime">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Entities">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Entities.dll</HintPath>
@@ -309,14 +303,20 @@
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Editor">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Transforms.Hybrid">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
-    </Reference>
-    <Reference Include="PsdPlugin">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Psdimporter.Editor">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -516,6 +516,12 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="NSubstitute">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/PackageCache/com.unity.2d.common@1.1.0-preview.2/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
@@ -528,17 +534,11 @@
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
-    </Reference>
-    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
-      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
-    </Reference>
-    <Reference Include="NSubstitute">
-      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/PackageCache/com.unity.2d.common@1.1.0-preview.2/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
-    </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
       <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/PackageCache/com.unity.collections@0.0.9-preview.18/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>C:/Users/Roxana/Desktop/GameDevelopmentProject/ProjectGameDevelopment/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
