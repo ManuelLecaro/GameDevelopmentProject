@@ -87,6 +87,7 @@
     <Compile Include="Assets\Anima2D\Scripts\SpriteMeshAnimation.cs" />
     <Compile Include="Assets\Anima2D\Scripts\SpriteMeshInstance.cs" />
     <Compile Include="Assets\CameraController.cs" />
+    <Compile Include="Assets\Code\MenuPrincipal.cs" />
     <Compile Include="Assets\Code\Player.cs" />
     <Compile Include="Assets\movement.cs" />
     <None Include="Assets\Anima2D\Examples\Shaders\VisibleInsideMask.shader" />

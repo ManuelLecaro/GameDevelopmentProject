@@ -45,13 +45,13 @@ public class movement : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log($"Entered: ");
+        
         grounded = true;
 
     }
     void OnTriggerStay2D(Collider2D collision)
     {
-        Debug.Log($"Entered: ");
+        
         grounded = true;
 
     }
