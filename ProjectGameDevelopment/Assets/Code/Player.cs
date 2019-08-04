@@ -23,6 +23,8 @@ public class Player : MonoBehaviour
     //private bool window =false;
     public GameObject canvas;
     public int pauseDelay=2;
+    public GameObject portal;
+    private int counClues=0;
 
     [Header("Events")]
     [Space]
@@ -38,7 +40,7 @@ public class Player : MonoBehaviour
     private void Awake()
     {
         m_Rigidbody2D = GetComponent<Rigidbody2D>();
-
+        portal.SetActive(false);
         if (OnLandEvent == null)
             OnLandEvent = new UnityEvent();
 
@@ -156,8 +158,13 @@ public class Player : MonoBehaviour
         var newObject = colisionar.collider.gameObject;
         if (newObject.tag == "clue")
         {
+            newObject.SetActive(false);
+            counClues++;
+            if(counClues==4){
+                portal.SetActive(true);
+            }
             Time.timeScale=0;
-            StartCoroutine(ResumeAfterNSeconds(3.0f));
+            StartCoroutine(ResumeAfterNSeconds(0.5f));
         }
     }
     float timer = 0;

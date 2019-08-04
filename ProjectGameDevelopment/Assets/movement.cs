@@ -6,11 +6,13 @@ public class movement : MonoBehaviour
 {
 
     public Player controller;
+    public Animator animator;
 
     public float runSpeed = 40f;
 
     float horizontalMove = 0f;
     bool jump = false;
+    bool punch=false;
     bool crouch = false;
     bool grounded = true;
 
@@ -19,10 +21,16 @@ public class movement : MonoBehaviour
     {
 
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+        animator.SetFloat("Speed",Mathf.Abs(horizontalMove));
 
         if (Input.GetButtonDown("Jump"))
         {
             jump = true;
+            animator.SetBool("isJumping",true);
+        }
+        if(Input.GetButtonDown("Fire1")){
+            punch=true;
+            animator.SetBool("isPunching",true);
         }
 
         //if (Input.GetButtonDown("Crouch"))
@@ -36,12 +44,21 @@ public class movement : MonoBehaviour
 
     }
 
+    public void onLanding(){
+        animator.SetBool("isJumping",false);
+    }
+
+    public void onPunching(){
+        animator.SetBool("isPunching",false);
+    }
+
     void FixedUpdate()
     {
         // Move our character
         controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
         jump = false;
         grounded = false;
+        punch=false;
     }
     void OnTriggerEnter2D(Collider2D collision)
     {
