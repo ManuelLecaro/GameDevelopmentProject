@@ -1,2 +1,0 @@
-# GameDevelopmentProject
-Game Development Project
