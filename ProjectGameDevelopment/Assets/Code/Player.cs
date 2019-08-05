@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -24,7 +25,17 @@ public class Player : MonoBehaviour
     public GameObject canvas;
     public int pauseDelay=2;
     public GameObject portal;
+    public GameObject end;
     private int counClues=0;
+    public int life = 100;
+
+    public float spriteBlinkingTimer = 0.0f;
+    public float spriteBlinkingMiniDuration = 0.1f;
+    public float spriteBlinkingTotalTimer = 0.0f;
+    public float spriteBlinkingTotalDuration = 1.0f;
+    public bool startBlinking = false;
+    public Camera camera;
+
 
     [Header("Events")]
     [Space]
@@ -65,6 +76,42 @@ public class Player : MonoBehaviour
                     OnLandEvent.Invoke();
             }
         }
+
+        if (startBlinking == true)
+        {
+            spriteBlinkingTotalTimer += Time.deltaTime;
+            if (spriteBlinkingTotalTimer >= spriteBlinkingTotalDuration)
+            {
+                startBlinking = false;
+                spriteBlinkingTotalTimer = 0.0f;
+                this.gameObject.GetComponent<SpriteRenderer>().enabled = true;
+                return;
+            }
+
+            spriteBlinkingTimer += Time.deltaTime;
+            if (spriteBlinkingTimer >= spriteBlinkingMiniDuration)
+            {
+                spriteBlinkingTimer = 0.0f;
+                if (this.gameObject.GetComponent<SpriteRenderer>().enabled == true)
+                {
+                    this.gameObject.GetComponent<SpriteRenderer>().enabled = false;
+                }
+                else
+                {
+                    this.gameObject.GetComponent<SpriteRenderer>().enabled = true;
+                }
+            }
+        }
+
+        if (life < 0)
+        {
+
+            end.SetActive(true);
+            Time.timeScale = 0;
+            StartCoroutine(ResumeAfterNSeconds(4.0f));
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        }
+
     }
 
 
@@ -162,11 +209,33 @@ public class Player : MonoBehaviour
             counClues++;
             if(counClues==4){
                 portal.SetActive(true);
+                camera.orthographicSize=30f;
+                Time.timeScale=0;
+                StartCoroutine(ResumeAfterNSeconds(2.0f));
             }
             
            
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Respawn")
+        {
+            startBlinking = true;
+            life = life - 1;
+
+        }
+        if(collision.gameObject.layer == 10)
+        {
+            startBlinking = true;
+            life = life - 100;
+        }
+
+
+
+    }
+
     float timer = 0;
     private IEnumerator ResumeAfterNSeconds(float timePeriod)
     {
@@ -176,7 +245,9 @@ public class Player : MonoBehaviour
                      StartCoroutine(ResumeAfterNSeconds(3.0f));
           else
           {
-                     Time.timeScale = 1;                //Resume
+
+                     Time.timeScale = 1;        
+                     camera.orthographicSize=8.499504f;     //Resume
                      timer = 0;
           }
     }

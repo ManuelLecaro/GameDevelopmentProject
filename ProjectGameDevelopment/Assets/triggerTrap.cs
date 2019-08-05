@@ -5,7 +5,7 @@ using UnityEngine;
 public class triggerTrap : MonoBehaviour
 {
     public bool activate;
-    public stopperTrap stop;
+    //public stopperTrap stop;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,10 +15,10 @@ public class triggerTrap : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (stop.stop)
-        {
+        //if (stop.stop)
+        //{
             activate = false;
-        }
+        //}
     }
 
     void OnTriggerEnter2D(Collider2D collision)
