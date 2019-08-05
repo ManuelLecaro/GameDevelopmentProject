@@ -59,6 +59,7 @@ public class movement : MonoBehaviour
         jump = false;
         grounded = false;
         punch=false;
+        onPunching();
     }
     void OnTriggerEnter2D(Collider2D collision)
     {

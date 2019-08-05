@@ -163,8 +163,8 @@ public class Player : MonoBehaviour
             if(counClues==4){
                 portal.SetActive(true);
             }
-            Time.timeScale=0;
-            StartCoroutine(ResumeAfterNSeconds(0.5f));
+            
+           
         }
     }
     float timer = 0;
