@@ -229,7 +229,7 @@ public class Player : MonoBehaviour
         if(collision.gameObject.layer == 10)
         {
             startBlinking = true;
-            life = life - 100;
+            life = life/2;
         }
 
 
