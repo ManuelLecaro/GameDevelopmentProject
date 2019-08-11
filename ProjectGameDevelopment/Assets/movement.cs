@@ -7,8 +7,14 @@ public class movement : MonoBehaviour
 
     public Player controller;
     public Animator animator;
-
+    private AudioSource musicPlayer;
     public float runSpeed = 40f;
+
+    private Audioclip jumpClip;
+    private Audioclip runningClip;
+
+    private AudioSource musicPlayer;
+
 
     float horizontalMove = 0f;
     bool jump = false;
@@ -16,10 +22,17 @@ public class movement : MonoBehaviour
     bool crouch = false;
     bool grounded = true;
 
+    void Start()
+    {
+        musicPlayer = GetComponent<AudioSource>();
+
+    }
+
+
     // Update is called once per frame
     void Update()
     {
-
+        
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
         animator.SetFloat("Speed",Mathf.Abs(horizontalMove));
 
@@ -27,11 +40,15 @@ public class movement : MonoBehaviour
         {
             jump = true;
             animator.SetBool("isJumping",true);
+            audioPlayer.clip = jumpClip;
+            audioPlayer.Play();
         }
         if(Input.GetButtonDown("Fire1")){
             punch=true;
             animator.SetBool("isPunching",true);
         }
+
+       
 
         //if (Input.GetButtonDown("Crouch"))
         //{

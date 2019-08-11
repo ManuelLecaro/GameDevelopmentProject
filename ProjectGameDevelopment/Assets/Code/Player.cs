@@ -25,6 +25,9 @@ public class Player : MonoBehaviour
     public int pauseDelay=2;
     public GameObject portal;
     private int counClues=0;
+   
+
+    private AudioSource musicPlayer;
 
     [Header("Events")]
     [Space]
@@ -36,6 +39,13 @@ public class Player : MonoBehaviour
 
     public BoolEvent OnCrouchEvent;
     private bool m_wasCrouching = false;
+
+
+    void Start()
+    {
+        musicPlayer = GetComponent<AudioSource>();
+        musicPlayer.Play();
+    }
 
     private void Awake()
     {
