@@ -25,7 +25,6 @@ public class Player : MonoBehaviour
     public GameObject canvas;
     public int pauseDelay=2;
     public GameObject portal;
-    public GameObject arrow;
     public GameObject end;
     private int counClues=0;
     public int life = 100;
@@ -53,7 +52,6 @@ public class Player : MonoBehaviour
     {
         m_Rigidbody2D = GetComponent<Rigidbody2D>();
         portal.SetActive(false);
-        arrow.SetActive(false);
         if (OnLandEvent == null)
             OnLandEvent = new UnityEvent();
 
@@ -107,10 +105,11 @@ public class Player : MonoBehaviour
 
         if (life < 0)
         {
+
             end.SetActive(true);
             Time.timeScale = 0;
-            StartCoroutine(ResumeAfterNSeconds(5.0f));
-            SceneManager.LoadScene(0,LoadSceneMode.Single);
+            StartCoroutine(ResumeAfterNSeconds(4.0f));
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
         }
 
     }
@@ -210,11 +209,12 @@ public class Player : MonoBehaviour
             counClues++;
             if(counClues==4){
                 portal.SetActive(true);
-                arrow.SetActive(true);
                 camera.orthographicSize=30f;
                 Time.timeScale=0;
                 StartCoroutine(ResumeAfterNSeconds(2.0f));
-            }  
+            }
+            
+           
         }
     }
 
@@ -229,12 +229,10 @@ public class Player : MonoBehaviour
         if(collision.gameObject.layer == 10)
         {
             startBlinking = true;
-            life = life/2;
+            life = life - 100;
         }
 
-        if(collision.tag == "Portal"){
-            SceneManager.LoadScene(2);
-        }
+
 
     }
 

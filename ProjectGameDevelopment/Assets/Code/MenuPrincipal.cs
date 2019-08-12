@@ -19,7 +19,7 @@ public class MenuPrincipal : MonoBehaviour
     }
     public void EmpezarJuego()
     {
-        SceneManager.LoadScene(1,LoadSceneMode.Single);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void CerrarJuego()

@@ -846,7 +846,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1144354020}
+      - m_Target: {fileID: 0}
         m_MethodName: CerrarJuego
         m_Mode: 1
         m_Arguments:
