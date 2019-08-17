@@ -9,6 +9,7 @@ TagManager:
   - clue
   - vehicle
   - Ground
+  - Portal
   layers:
   - Default
   - TransparentFX
