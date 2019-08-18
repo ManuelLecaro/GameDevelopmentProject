@@ -98,6 +98,7 @@
     <Compile Include="Assets\returnInstruction.cs" />
     <Compile Include="Assets\stopperTrap.cs" />
     <Compile Include="Assets\triggerTrap.cs" />
+    <Compile Include="Assets\vid.cs" />
     <None Include="Assets\Anima2D\Examples\Shaders\VisibleInsideMask.shader" />
     <None Include="Assets\Anima2D\Examples\Shaders\VisibleOutsideMask.shader" />
     <None Include="Assets\Anima2D\Version.txt" />

@@ -110,7 +110,7 @@ public class Player : MonoBehaviour
             end.SetActive(true);
             Time.timeScale = 0;
             StartCoroutine(ResumeAfterNSeconds(5.0f));
-            SceneManager.LoadScene(0,LoadSceneMode.Single);
+            SceneManager.LoadScene(1,LoadSceneMode.Single);
         }
 
     }
@@ -239,7 +239,7 @@ public class Player : MonoBehaviour
         }
 
         if(collision.tag == "Portal"){
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(3);
         }
     }
 
