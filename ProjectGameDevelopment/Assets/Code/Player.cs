@@ -211,31 +211,36 @@ public class Player : MonoBehaviour
             if(counClues==4){
                 portal.SetActive(true);
                 arrow.SetActive(true);
-                camera.orthographicSize=30f;
+                camera.orthographicSize=35f;
                 Time.timeScale=0;
                 StartCoroutine(ResumeAfterNSeconds(2.0f));
             }  
+        }
+        if(newObject.tag == "LifePoint"){
+            startBlinking = true;
+            life = life + 10;
+            newObject.SetActive(false);
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
         if (collision.tag == "Respawn")
         {
             startBlinking = true;
-            life = life - 1;
+            life = life - 2;
 
         }
         if(collision.gameObject.layer == 10)
         {
             startBlinking = true;
-            life = life/2;
+            life = life -25;
         }
 
         if(collision.tag == "Portal"){
             SceneManager.LoadScene(2);
         }
-
     }
 
     float timer = 0;

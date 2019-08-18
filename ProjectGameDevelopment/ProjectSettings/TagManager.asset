@@ -10,6 +10,7 @@ TagManager:
   - vehicle
   - Ground
   - Portal
+  - LifePoint
   layers:
   - Default
   - TransparentFX
