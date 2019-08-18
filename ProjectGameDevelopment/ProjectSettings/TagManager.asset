@@ -11,6 +11,7 @@ TagManager:
   - Ground
   - Portal
   - LifePoint
+  - Portal2
   layers:
   - Default
   - TransparentFX

@@ -241,6 +241,10 @@ public class Player : MonoBehaviour
         if(collision.tag == "Portal"){
             SceneManager.LoadScene(3);
         }
+        
+        if(collision.tag == "Portal2"){
+            SceneManager.LoadScene(4);
+        }
     }
 
     float timer = 0;
