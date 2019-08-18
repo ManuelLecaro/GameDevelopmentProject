@@ -51,6 +51,7 @@ public class Player : MonoBehaviour
 
     private void Awake()
     {
+        Time.timeScale = 1;
         m_Rigidbody2D = GetComponent<Rigidbody2D>();
         portal.SetActive(false);
         arrow.SetActive(false);
@@ -105,11 +106,12 @@ public class Player : MonoBehaviour
             }
         }
 
-        if (life < 0)
+        if (life <= 0)
         {
             end.SetActive(true);
             Time.timeScale = 0;
             StartCoroutine(ResumeAfterNSeconds(5.0f));
+
             SceneManager.LoadScene(1,LoadSceneMode.Single);
         }
 
@@ -218,7 +220,15 @@ public class Player : MonoBehaviour
         }
         if(newObject.tag == "LifePoint"){
             startBlinking = true;
-            life = life + 10;
+            if (life + 10 > 100)
+            {
+                int amount = 100 - life;
+                life = life + amount;
+            }
+            else
+            {
+                life = life + 10;
+            }
             newObject.SetActive(false);
         }
     }
@@ -239,6 +249,7 @@ public class Player : MonoBehaviour
         }
 
         if(collision.tag == "Portal"){
+
             SceneManager.LoadScene(3);
         }
         

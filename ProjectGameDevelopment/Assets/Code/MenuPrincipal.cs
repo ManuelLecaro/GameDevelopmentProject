@@ -19,7 +19,8 @@ public class MenuPrincipal : MonoBehaviour
     }
     public void EmpezarJuego()
     {
-        SceneManager.LoadScene(2,LoadSceneMode.Single);
+
+        SceneManager.LoadScene(2);
     }
 
     public void CerrarJuego()
